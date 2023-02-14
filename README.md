@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,c,cpp,java,eclipse,html,css,javascript,bootstrap,php,mysql,laravel,python,flask,dart,flutter,androidstudio,go,firebase,figma,stackoverflow" />
   </a>
 </p>
+
 ---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=artzaza7&show_icons=true&hide=contribs,prs" alt="artzaza7" /></p>
